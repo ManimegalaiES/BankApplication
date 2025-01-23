@@ -1,2 +1,0 @@
-# BankApplication
-Using React JS
